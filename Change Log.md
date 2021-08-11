@@ -11,6 +11,7 @@
 - [x] Craft bullet grazing power up
 - [x] Trace option type
 - [x] Improved boss warning
+- [x] Slowdown when theres a lot of bullets on screen
 ## Changed
 - Health of Armageddon from 5000 to 4000
 - Bullet hitboxes
