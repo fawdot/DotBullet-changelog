@@ -15,7 +15,7 @@
 ## Changed
 - Health of Armageddon from 5000 to 4000
 - Bullet hitboxes
-- Score needed to get an extend from 300,000 to 500,000
+- Score needed to get an extend from 250,000 to 500,000
 ## Needs Work/Fixing
 - Bomb not making score items appear when erasing
 a lot of bullets simultaneously
