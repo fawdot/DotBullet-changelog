@@ -3,21 +3,18 @@
 ## V0.2.0
 
 ## Added
-- [ ] Stage 2
-- [x] Settings
-- [x] A somewhat basic tutorial
-- [x] Glitch Mode
-- [x] Bullet Grazing 
-- [x] Craft bullet grazing power up
-- [x] Trace option type
-- [x] Improved boss warning
-- [x] Slowdown when theres a lot of bullets on screen
+-  Stage 2
+-  Settings
+-  A somewhat basic tutorial
+-  Glitch Mode
+-  Bullet Grazing 
+-  Craft bullet grazing power up
+-  Trace option type
+-  Improved boss warning
+-  Slowdown when theres a lot of bullets on screen
+-  Option to choose Original OST or Retro OST
 ## Changed
 - Health of Armageddon from 5000 to 4000
 - Bullet hitboxes
-- Score needed to get an extend from 250,000 to 500,000
-## Needs Work/Fixing
-- Bomb not making score items appear when erasing
-a lot of bullets simultaneously
-- Indicators for some Hakai-X attacks
-- Better "Highlight" system
+- Extend Points needed to get an extend from 250,000 to 500,000 
+(yes, it's different. It's an invisible counter that increases similarly to the score)
