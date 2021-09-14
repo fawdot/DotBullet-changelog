@@ -7,3 +7,8 @@
 - [ ] In-game achievements
 - [ ] New ui for the start menu and weapon select
 - [ ] Novice mode
+- [ ] Heaven Breaker, stage 3 boss
+- [ ] Main menu and weapon select ui
+## Changed
+- [ ] Some bullet hitboxes
+- [ ] Ship and Ship Options sprites
