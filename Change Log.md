@@ -1,14 +1,22 @@
 # DotBullet Change Log
 
+This can also serve as the road map for the new version.
+
 ## V0.3.0
 
 ## Added
 - [ ] Stage 3
-- [ ] In-game achievements
-- [ ] New ui for the start menu and weapon select
-- [ ] Novice mode
+- [x] In-game achievements
+- [x] New ui for the start menu and weapon select
+- [x] Novice mode
 - [ ] Heaven Breaker, stage 3 boss
-- [ ] Main menu and weapon select ui
+- [ ] New enemies: Tsubasa, BioBreaker, MX-1, Oblivian.
+- [ ] Continue system
+- [x] Laser weapon
+- [x] Temporary secret boss
 ## Changed
-- [ ] Some bullet hitboxes
-- [ ] Ship and Ship Options sprites
+- [x] Some bullet hitboxes
+- [x] Ship and Ship Options sprites
+## Fixed
+- [x] Stage 1 enemy spawns are no longer based on how much time
+has passed, but are now based on the position of the "BG2" camera
