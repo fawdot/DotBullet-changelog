@@ -14,6 +14,7 @@ This can also serve as the road map for the new version.
 - [ ] Continue system
 - [x] Laser weapon
 - [x] Temporary secret boss
+- [x] Change window size.
 ## Changed
 - [x] Some bullet hitboxes
 - [x] Ship and Ship Options sprites
