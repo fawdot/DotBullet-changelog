@@ -20,4 +20,6 @@ This can also serve as the road map for the new version.
 - [x] Ship and Ship Options sprites
 ## Fixed
 - [x] Stage 1 enemy spawns are no longer based on how much time
-has passed, but are now based on the position of the "BG2" camera
+has passed, but are now based on the position of the "BG2" camera. 
+This should fix some problems on lower end computers making enemies no longer spawn
+earlier than they should.
