@@ -12,6 +12,7 @@ This can also serve as the road map for the new version.
 - [ ] Heaven Breaker, stage 3 boss
 - [ ] New enemies: Tsubasa, BioBreaker, MX-1, Oblivian, Cutter.
 - [ ] Continue system
+- [ ] Auto-bomb
 - [x] Customizable border images
 - [x] Laser weapon
 - [x] Warning for when a enemy laser is about to fire
