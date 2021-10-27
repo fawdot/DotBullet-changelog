@@ -21,6 +21,8 @@ This can also serve as the road map for the new version.
 ## Changed
 - [x] Some bullet hitboxes
 - [x] Ship and Ship Options sprites
+##Removed 
+- [x] Trace option type
 ## Fixed
 - [ ] Player Ship sometimes clipping out of the border. Can be fixed by doing a additional
 hitbox to check if it's in collision with the border instead of using the ship's "core" as a hitbox
