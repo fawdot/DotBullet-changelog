@@ -11,8 +11,7 @@ This can also serve as the road map for the new version.
 - [x] Novice mode
 - [ ] Heaven Breaker, stage 3 boss
 - [ ] New enemies: Tsubasa, BioBreaker, MX-1, Oblivian, Cutter.
-- [ ] Continue system
-- [ ] Auto-bomb
+- [x] Auto-bomb
 - [x] Customizable border images
 - [x] Laser weapon
 - [x] Warning for when a enemy laser is about to fire
@@ -21,7 +20,7 @@ This can also serve as the road map for the new version.
 ## Changed
 - [x] Some bullet hitboxes
 - [x] Ship and Ship Options sprites
-##Removed 
+## Removed 
 - [x] Trace option type
 ## Fixed
 - [ ] Player Ship sometimes clipping out of the border. Can be fixed by doing a additional
