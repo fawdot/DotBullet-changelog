@@ -5,11 +5,11 @@ This can also serve as the road map for the new version.
 ## V0.3.0
 
 ## Added
-- [ ] Stage 3
+- [x] Stage 3
 - [x] In-game achievements
 - [x] New ui for the start menu, mode select, and weapon select
 - [x] Novice mode
-- [ ] Heaven Breaker, stage 3 boss
+- [x] Heaven Breaker, stage 3 boss
 - [x] New enemies: Tsubasa, BioBreaker, MX-1, Oblivian, Cutter
 - [x] Auto-bomb
 - [x] Customizable border images
@@ -20,9 +20,10 @@ This can also serve as the road map for the new version.
 - [x] Results screen
 ## Changed
 - [x] Some bullet hitboxes
-- [ ] Player hitbox is now 1 pixel big, meaning that you will be able to dodge more bullets without fear of dying, but i will be able to add a lot more bullets because 
+- [x] Player hitbox is now 1 pixel big, meaning that you will be able to dodge more bullets without fear of dying, but i will be able to add a lot more bullets because 
 of this
 - [x] Ship and Ship Options sprites
+- [x] Replaced tutorial with a training stage.
 ## Removed 
 - [x] Trace option type
 ## Fixed
