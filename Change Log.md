@@ -19,3 +19,4 @@ be able to choose between this or the laser beam.
 - Novice mode (will be added hack when base game is done.)
 - Achievement pop-up
 - Stage 1 background CRT TV filter effect
+- Removed Hakai-X's (Boss 2) 4th phase
