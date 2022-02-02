@@ -15,6 +15,8 @@ be able to choose between this or the laser beam.
 ## Fixed
 - Boss warnings and music not play properly when unpaused
 - Bosses starting when game is paused
+## Changed
+- Changed how boss damage works
 ## Removed
 - Novice mode (will be added hack when base game is done.)
 - Achievement pop-up
