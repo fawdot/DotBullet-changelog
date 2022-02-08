@@ -7,11 +7,13 @@ This can also serve as the road map for the new version.
 ## Added
 - Homing Missiles special attack. The player will now
 be able to choose between this or the laser beam.
+- ?????? special attack (be patient)
 - Stage 4
 - Few new in-game achievements
 - Option to disable fancy effects
 - Neat flame effect when the player presses up
 - Some enemies now have sound effects when shooting
+- Gui now shows game mode, stage number, and song name when in game.
 ## Fixed
 - Boss warnings and music not play properly when unpaused
 - Bosses starting when game is paused
