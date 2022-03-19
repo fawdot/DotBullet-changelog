@@ -20,6 +20,8 @@ This can also serve as the road map for the new version.
 ## Changed
 - Changed how boss damage works
 - Laser special attack is now only used when linear type is selected.
+- Laser Special can now slow down bullets
+- Homing Missile explosion can now cancel bullets.
 - Boss 2 background
 ## Removed
 - Novice mode (will be added back when base game is done.)
