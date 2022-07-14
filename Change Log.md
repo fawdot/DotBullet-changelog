@@ -2,32 +2,28 @@
 
 This can also serve as the road map for the new version.
 
-## V0.4.0
+## V0.5.0
 
 ## Added
-- Homing Missiles special attack. Used when wide type is selected.
-- Blade special attack. Used when variable type is selected
-- Stage 4
-- Few new in-game achievements
-- Option to disable fancy effects
-- Neat flame effect when the player presses up
-- Gui now shows game mode, stage number, and song name when in game.
-- More border designs
+- Stage 5
+- New enemies
+  >Scrypton
+
+  >Zako
+
+  >Bloodsaw
+
+- More border images
+- Actual tutorial (WIP)
+- Stage 5 miniboss (WIP)
+- Stage 5 boss (WIP)
+- New enemy bullet sprites
+- Hold shift to move slower
 ## Fixed
-- Boss warnings and music not play properly when unpaused
-- Some enemies still movingwhen game is paused
-- Bosses starting when game is paused
+- Problem with stage 4 boss background getting cut off
+- Problem where stage 4 boss phase 3 laser attack didn't properly spawn
+- Enemy explosion shockwave not canceling all enemy bullets, and not converting enemy bullets to points.
+- Problem where a text effect kept stacking which caused the game to lag.
+- Performance issues
 ## Changed
-- Changed how boss damage works
-- Laser special attack is now only used when linear type is selected.
-- Laser Special can now slow down bullets
-- Homing Missile explosion can now cancel bullets.
-- Boss 2 background
-## Removed
-- Novice mode (will be added back when base game is done.)
-- Achievement pop-up
-- Stage 1 background CRT TV filter effect
-- Removed Hakai-X's (Boss 2) 4th phase
-
-
-Optimization too.
+- ENTIRE ENEMY SPAWNING SYSTEM
