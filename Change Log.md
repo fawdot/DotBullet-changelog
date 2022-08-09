@@ -13,8 +13,10 @@ This can also serve as the road map for the new version.
 
   >Bloodsaw
 
+  >Breaker(WIP)
+
 - More border images
-- Actual tutorial (WIP)
+- Actual tutorial
 - Stage 5 miniboss (WIP)
 - Stage 5 boss (WIP)
 - New enemy bullet sprites
