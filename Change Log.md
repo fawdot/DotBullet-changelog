@@ -15,6 +15,8 @@ This can also serve as the road map for the new version.
 
 
 - More border images
+- More Achievements
+- More secret stage items
 - Actual tutorial
 - Stage 5 miniboss (WIP)
 - Stage 5 boss (WIP)
