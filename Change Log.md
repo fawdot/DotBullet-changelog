@@ -30,5 +30,6 @@ This can also serve as the road map for the new version.
 - Explosion shockwave not making points go towards the player.
 - Problem where a text effect kept stacking which caused the game to lag.
 - Performance issues
+- A bug where bullets would appear below enemy sprites when the player dies.
 ## Changed
 - ENTIRE ENEMY SPAWNING SYSTEM
