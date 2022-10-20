@@ -18,10 +18,13 @@ This can also serve as the road map for the new version.
 - More Achievements
 - More secret stage items
 - Actual tutorial
+- Actual continue system
+- Actual uis for many menus
 - Stage 5
 - Stage 5 boss
 - New enemy bullet sprites
 - Hold shift to move slower
+- Shinku!
 - Secret
 - ENDING
 ## Fixed
@@ -32,7 +35,9 @@ This can also serve as the road map for the new version.
 - Explosion shockwave not making points go towards the player.
 - Problem where a text effect kept stacking which caused the game to lag.
 - Problem where stage 4 was moving too slow
-- 
+- Bug where tutorial would not exit
+- Another bug for tutorial where the pause menu would not close
+- Problem where boss 1's phase 4 bullet bouncing attack won't bounce
 - Performance issues
 - A bug where bullets would appear below enemy sprites when the player dies.
 ## Changed
